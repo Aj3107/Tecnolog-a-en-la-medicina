@@ -15,4 +15,6 @@ Javier Tellez Hernandez
 
 Grupo: 410
 
-https://github.com/Aj3107/Tecnologia-en-la-medicina.wiki.git
+
+
+[Informacion](https://github.com/Aj3107/Tecnologia-en-la-medicina/wiki/Tecnologia-en-la-medicina.)
